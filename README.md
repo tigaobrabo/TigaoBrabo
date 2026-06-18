@@ -18,10 +18,6 @@
 
 ###
 
-<h3 align="center">🛠 Language and tools 🛠</h3>
-
-###
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="11" />
